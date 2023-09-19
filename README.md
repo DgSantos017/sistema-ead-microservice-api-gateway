@@ -1,7 +1,7 @@
 # System EAD Microservice API Gateway
 
 ### baseUrl
-localhost:8080/
+http://localhost:8761/
 ![image](https://github.com/DgSantos017/sistema-ead-microservice-api-gateway/assets/62971277/31dc61eb-6552-4146-883c-2da8a335a2b0)
 
 
