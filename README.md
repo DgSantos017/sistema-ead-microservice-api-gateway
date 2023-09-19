@@ -1,6 +1,11 @@
-# System EAD Microservice Service Registry
+# System EAD Microservice API Gateway
 
-### baseUrl -> localhost:8080/
+### baseUrl
+http://localhost:8761/
+![image](https://github.com/DgSantos017/sistema-ead-microservice-api-gateway/assets/62971277/2d6b6a00-ec16-4dbf-ac52-3a4f61c6b878)
+
+![image](https://github.com/DgSantos017/sistema-ead-microservice-api-gateway/assets/62971277/31dc61eb-6552-4146-883c-2da8a335a2b0)
+
 
 # How to Run?
 - Fork and clone this repository
